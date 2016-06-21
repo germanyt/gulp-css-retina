@@ -6,7 +6,7 @@ You must have a 2x image in the folder which the original image in.
 
 ## Install
 
-`npm install gulp-img-retina`
+`npm install gulp-css-retina`
 
 ## Usage
 
